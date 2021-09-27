@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - development/index.md
   - devops/index.md
   - books/index.md
   - about.markdown
