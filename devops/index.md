@@ -11,4 +11,4 @@ title: DevOps
 # Observability
 
 - [Five years evolution of open source distributed tracing (2016-2021)](https://ploffay.medium.com/five-years-evolution-of-open-source-distributed-tracing-ec1c5a5dd1ac)
-
+- [How SRE can drive odoption of the 4 golden signals](https://www.cortex.io/post/how-sres-can-drive-team-adoption-of-the-4-golden-signals)
