@@ -12,3 +12,8 @@ title: DevOps
 
 - [Five years evolution of open source distributed tracing (2016-2021)](https://ploffay.medium.com/five-years-evolution-of-open-source-distributed-tracing-ec1c5a5dd1ac)
 - [How SRE can drive odoption of the 4 golden signals](https://www.cortex.io/post/how-sres-can-drive-team-adoption-of-the-4-golden-signals)
+- [Observability: The 5-Year Retrospective](https://www.honeycomb.io/blog/observability-5-year-retrospective/)
+
+# Security
+
+- [Zero Trust Supply Chain Security](https://dlorenc.medium.com/zero-trust-supply-chain-security-e3fb8b6973b8)
