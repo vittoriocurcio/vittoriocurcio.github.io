@@ -35,6 +35,7 @@ plugins:
 header_pages:
   - development/index.md
   - devops/index.md
+  - agile/index.md
   - books/index.md
   - about.markdown
 # Exclude from processing.
