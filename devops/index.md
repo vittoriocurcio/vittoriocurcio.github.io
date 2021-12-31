@@ -7,6 +7,7 @@ title: DevOps
 
 - [Awesome Kubernetes Security](https://github.com/magnologan/awesome-k8s-security)
 - [Common Kubernetes Errors](https://medium.com/nerd-for-tech/common-kubernetes-errors-made-by-beginners-274b50e18a01)
+- [Kubernetes Metrics](https://sematext.com/blog/kubernetes-metrics/)
 
 # Observability
 
